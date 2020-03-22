@@ -205,6 +205,54 @@ export const hatchArray = [
       "What's red and white, red and white, red and white? Sant rolling off your roof.",
     open: false
   },
+  {
+    id: "hatch-25",
+    nr: 25,
+    img: "./img/20.jpg",
+    text:
+      "Santa's elves are just a bunch of subordinate Clauses.",
+    open: false
+  },
+  {
+    id: "hatch-26",
+    nr: 26,
+    img: "./img/21.jpg",
+    text:
+      "What is the best evidence that Microsoft has a monopoly? Santa Claus had to switch from Chimneys to Windows.",
+    open: false
+  },
+  {
+    id: "hatch-27",
+    nr: 27,
+    img: "./img/22.jpg",
+    text:
+      "Why do programmers always mix up Halloween and Christmas? Because 31 OCT = 25 DEC.",
+    open: false
+  },
+  {
+    id: "hatch-28",
+    nr: 28,
+    img: "./img/23.jpg",
+    text:
+      "What does Santa suffer from if he gets stuck in a chimney? Claustrophobia!",
+    open: false
+  },
+  {
+    id: "hatch-29",
+    nr: 29,
+    img: "./img/24.jpg",
+    text:
+      "What's red and white, red and white, red and white? Sant rolling off your roof.",
+    open: false
+  },
+  {
+    id: "hatch-30",
+    nr: 30,
+    img: "./img/24.jpg",
+    text:
+      "What's red and white, red and white, red and white? Sant rolling off your roof.",
+    open: false
+  },
 ];
 
 export const createCalendar = () => shuffle(hatchArray);
