@@ -19,7 +19,8 @@ export const hatchArray = [
     img: "./img/1.jpg",
     text:
       "Can I have your picture so I can show Santa what I want for Christmas?",
-    open: false
+    open: false,
+    activated: false
   },
   {
     id: "hatch-2",
@@ -27,7 +28,8 @@ export const hatchArray = [
     img: "./img/2.jpg",
     text:
       "What do you call people who are afraid of Santa Claus? Claustrophobic",
-    open: false
+    open: false,
+    activated: false
   },
   {
     id: "hatch-3",
@@ -35,7 +37,8 @@ export const hatchArray = [
     img: "./img/3.jpg",
     text:
       "What is the best Christmas present ever? A broken drum - you can't beat it!",
-    open: false
+    open: false,
+    activated: false
   },
   {
     id: "hatch-4",
@@ -43,7 +46,8 @@ export const hatchArray = [
     img: "./img/4.jpg",
     text:
       "How do you know when Santa's in the room? You can sense his presents.",
-    open: false
+    open: false,
+    activated: false
   },
   {
     id: "hatch-5",
@@ -51,7 +55,8 @@ export const hatchArray = [
     img: "./img/5.jpg",
     text:
       "STRESSED is just DESSERTS spelled backward.",
-    open: false
+    open: false,
+    activated: false
   },
   {
     id: "hatch-6",
@@ -59,7 +64,8 @@ export const hatchArray = [
     img: "./img/6.jpg",
     text:
       "What is the difference between snowmen and snowwomen? Snowballs.",
-    open: false
+    open: false,
+    activated: false
   },
   {
     id: "hatch-7",
@@ -67,7 +73,8 @@ export const hatchArray = [
     img: "./img/7.jpg",
     text:
       "What nationality is Santa Claus? North Polish",
-    open: false
+    open: false,
+    activated: false
   },
   {
     id: "hatch-8",
@@ -75,7 +82,8 @@ export const hatchArray = [
     img: "./img/8.jpg",
     text:
       "What kind of motorbike does Santa ride? A Holly Davidson!",
-    open: false
+    open: false,
+    activated: false
   },
   {
     id: "hatch-9",
@@ -83,7 +91,8 @@ export const hatchArray = [
     img: "./img/9.jpg",
     text:
       "Who is never hungry at Christmas? The turkey - he's always stuffed!",
-    open: false
+    open: false,
+    activated: false
   },
   {
     id: "hatch-10",
@@ -91,7 +100,8 @@ export const hatchArray = [
     img: "./img/10.jpg",
     text:
       "When you stop believing in Santa Claus is when you start getting clothes for Christmas!",
-    open: false
+    open: false,
+    activated: false
   },
   {
     id: "hatch-11",
@@ -99,7 +109,8 @@ export const hatchArray = [
     img: "./img/11.jpg",
     text:
       "What goes 'oh oh oh'? Santa walking backwards.",
-    open: false
+    open: false,
+    activated: false
   },
   {
     id: "hatch-12",
@@ -107,7 +118,8 @@ export const hatchArray = [
     img: "./img/12.jpg",
     text:
       "According to my kids' Christmas lists, they think this parenting gig pays pretty well.",
-    open: false
+    open: false,
+    activated: false
   },
   {
     id: "hatch-13",
@@ -115,7 +127,8 @@ export const hatchArray = [
     img: "./img/13.jpg",
     text:
       "Which of Santa's reindeers needs to mind his manners the most? 'Rude'olph",
-    open: false
+    open: false,
+    activated: false
   },
   {
     id: "hatch-14",
@@ -123,7 +136,8 @@ export const hatchArray = [
     img: "./img/14.jpg",
     text:
       "What will fall on the lawn first? An autumn leaf or a Christmas catalog?",
-    open: false
+    open: false,
+    activated: false
   },
   {
     id: "hatch-15",
@@ -131,7 +145,8 @@ export const hatchArray = [
     img: "./img/15.jpg",
     text:
       "What do elves learn in school? The Elf-abet!",
-    open: false
+    open: false,
+    activated: false
   },
   {
     id: "hatch-16",
@@ -139,7 +154,8 @@ export const hatchArray = [
     img: "./img/16.jpg",
     text:
       "How do you scare a snowman? You get a hairdryer!",
-    open: false
+    open: false,
+    activated: false
   },
   {
     id: "hatch-17",
@@ -147,7 +163,8 @@ export const hatchArray = [
     img: "./img/17.jpg",
     text:
       "The main thing I want this holiday season is for someone to wake me when it's over.",
-    open: false
+    open: false,
+    activated: false
   },
   {
     id: "hatch-18",
@@ -155,7 +172,8 @@ export const hatchArray = [
     img: "./img/18.jpg",
     text:
       "Remember, children. The best way to get a puppy for Christmas is to beg for a baby brother.",
-    open: false
+    open: false,
+    activated: false
   },
   {
     id: "hatch-19",
@@ -163,7 +181,8 @@ export const hatchArray = [
     img: "./img/19.jpg",
     text:
       "I bought my son a fridge for Christmas. – I can't wait to see his face light up when he opens it.",
-    open: false
+    open: false,
+    activated: false
   },
   {
     id: "hatch-20",
@@ -171,7 +190,8 @@ export const hatchArray = [
     img: "./img/20.jpg",
     text:
       "Santa's elves are just a bunch of subordinate Clauses.",
-    open: false
+    open: false,
+    activated: false
   },
   {
     id: "hatch-21",
@@ -179,7 +199,8 @@ export const hatchArray = [
     img: "./img/21.jpg",
     text:
       "What is the best evidence that Microsoft has a monopoly? Santa Claus had to switch from Chimneys to Windows.",
-    open: false
+    open: false,
+    activated: false
   },
   {
     id: "hatch-22",
@@ -187,7 +208,8 @@ export const hatchArray = [
     img: "./img/22.jpg",
     text:
       "Why do programmers always mix up Halloween and Christmas? Because 31 OCT = 25 DEC.",
-    open: false
+    open: false,
+    activated: true
   },
   {
     id: "hatch-23",
@@ -195,7 +217,8 @@ export const hatchArray = [
     img: "./img/23.jpg",
     text:
       "What does Santa suffer from if he gets stuck in a chimney? Claustrophobia!",
-    open: false
+    open: false,
+    activated: true
   },
   {
     id: "hatch-24",
@@ -203,7 +226,8 @@ export const hatchArray = [
     img: "./img/24.jpg",
     text:
       "What's red and white, red and white, red and white? Sant rolling off your roof.",
-    open: false
+    open: false,
+    activated: true
   },
   {
     id: "hatch-25",
@@ -211,7 +235,8 @@ export const hatchArray = [
     img: "./img/20.jpg",
     text:
       "Santa's elves are just a bunch of subordinate Clauses.",
-    open: false
+    open: false,
+    activated: false
   },
   {
     id: "hatch-26",
@@ -219,7 +244,8 @@ export const hatchArray = [
     img: "./img/21.jpg",
     text:
       "What is the best evidence that Microsoft has a monopoly? Santa Claus had to switch from Chimneys to Windows.",
-    open: false
+    open: false,
+    activated: false
   },
   {
     id: "hatch-27",
@@ -227,7 +253,8 @@ export const hatchArray = [
     img: "./img/22.jpg",
     text:
       "Why do programmers always mix up Halloween and Christmas? Because 31 OCT = 25 DEC.",
-    open: false
+    open: false,
+    activated: false
   },
   {
     id: "hatch-28",
@@ -235,7 +262,8 @@ export const hatchArray = [
     img: "./img/23.jpg",
     text:
       "What does Santa suffer from if he gets stuck in a chimney? Claustrophobia!",
-    open: false
+    open: false,
+    activated: false
   },
   {
     id: "hatch-29",
@@ -243,7 +271,8 @@ export const hatchArray = [
     img: "./img/24.jpg",
     text:
       "What's red and white, red and white, red and white? Sant rolling off your roof.",
-    open: false
+    open: false,
+    activated: false
   },
   {
     id: "hatch-30",
@@ -251,7 +280,8 @@ export const hatchArray = [
     img: "./img/24.jpg",
     text:
       "What's red and white, red and white, red and white? Sant rolling off your roof.",
-    open: false
+    open: false,
+    activated: false
   },
 ];
 

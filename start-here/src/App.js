@@ -6,7 +6,8 @@ import Hatch from "./Hatch";
 
 const GlobalStyle = createGlobalStyle`
   body{
-    background: center / cover url("./img/calendar_backdrop.jpg");
+    background: center / cover url("./img/background01.jpg");
+    //background: center / cover rgba(250, 200, 220, 1);
     margin: 0;
   }
 `
@@ -29,8 +30,11 @@ function App() {
   }, [hatches]);
 
   const handleFlipHatch = id => {
-    const updateHatches = hatches.map(hatch =>
-      hatch.id == id ? {...hatch, open: !hatch.open } : hatch  
+    const updateHatches = hatches.map(hatch => {
+      if(hatch.id === id)
+        return {...hatch, open: !hatch.open }
+      else{ return hatch; }
+    }
     );
 
     setHatches(updateHatches);
